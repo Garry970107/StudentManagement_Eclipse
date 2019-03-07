@@ -28,9 +28,7 @@ a simple Student management system using MVC model with development ducumentatio
 2.建包
 
 * Dao
-* Dao.impl
 * Service
-* Service.impl
 * Domain
 * Servlet
 * Util
