@@ -40,7 +40,11 @@ eclipse + Mysql
 
 ## 使用方法
 1.git clone https://github.com/Garry970107/StudentManagement_Eclipse.git
+
 2.使用IntelliJ IDEA导入打开 或者 使用eclipse打开StudentManagement_Eclipse项目
+
 3.使用StudentManagement_Eclipse/stus.sql文件中的sql语句创建相应的数据库及表
+
 4.修改StudentManagement/src下c3p0-config.xml中数据库相关信息
+
 5.部署Tomcat并启动
