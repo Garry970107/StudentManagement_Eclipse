@@ -10,7 +10,7 @@ a simple Student management system using MVC model with development ducumentatio
 
 ## 运用知识
 
-* 数据库的就基本查询
+* 数据库的基本查询
 * 数据库连接池c3p0
 * JavaWeb三层架构&MVC模式
 
